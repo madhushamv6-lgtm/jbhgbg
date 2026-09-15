@@ -1,0 +1,6 @@
+{
+  "name": "Madhu's Moonlit Coffee",
+  "description": "A celestial coffee experience owned by Madhu, offering late-night brews, sweet quotes, and magical offers under the moon theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
